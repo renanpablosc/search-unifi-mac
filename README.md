@@ -1,5 +1,6 @@
 # 🔎 Search UNIFI MAC
 Busca UNIFI por MAC na controladora
+
 Aplicativo GUI em Python para buscar dispositivos UniFi por MAC na controladora UniFi via API.
 
 ## 💻 Funcionalidades
