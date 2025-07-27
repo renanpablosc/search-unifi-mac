@@ -20,9 +20,8 @@ https://www.linkedin.com/in/renan-pablo-9756293a/
 
 
 ### 🖱️ Executando o script Python
-bash
-pip install requests Pillow
-python search-unifi.py7
+- pip install requests Pillow
+- python search-unifi.py7
 
 
 ### 🖼️ Telas
