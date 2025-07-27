@@ -15,13 +15,15 @@ Aplicativo GUI em Python para buscar dispositivos UniFi por MAC na controladora 
 - Python 3.8+  
 - Bibliotecas: `requests`, `Pillow`
 
+
 ### 🖱️ Executando o script Python
-```bash
+bash
 pip install requests Pillow
-python search-unifi.py
+python search-unifi.py7
 
+
+### 🖼️ Telas
 <img width="426" height="463" alt="image" src="https://github.com/user-attachments/assets/b39f95cd-670c-4f1d-b359-acaa9aa9c6a0" />
-
 
 <img width="779" height="459" alt="image" src="https://github.com/user-attachments/assets/d135c213-576c-4373-98c2-795f99a5c5d2" />
 
