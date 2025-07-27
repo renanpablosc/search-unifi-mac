@@ -1,6 +1,8 @@
 # 🔎 Search UNIFI MAC
 Busca UNIFI por MAC na controladora
 
+Em grandes operações quando alguém esquece de remover um dispositivo que mais tarde será reinstalado pode causar "dor de cabeça" até descobrir que a unifi já esta salva na controladora, este aplicativo permite encontrar através do MAC em que site esta adotada.
+
 Aplicativo GUI em Python para buscar dispositivos UniFi por MAC na controladora UniFi via API.
 
 ## 💻 Funcionalidades
