@@ -18,12 +18,6 @@ https://www.linkedin.com/in/renan-pablo-9756293a/
 - Python 3.8+  
 - Bibliotecas: `requests`, `Pillow`
 
-
-### 🖱️ Executando o script Python
-- pip install requests Pillow
-- python search-unifi.py7
-
-
 ### 🖼️ Telas
 <img width="426" height="463" alt="image" src="https://github.com/user-attachments/assets/b39f95cd-670c-4f1d-b359-acaa9aa9c6a0" />
 
