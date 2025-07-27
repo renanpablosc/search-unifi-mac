@@ -5,6 +5,9 @@ Em grandes operações quando alguém esquece de remover um dispositivo que mais
 
 Aplicativo GUI em Python para buscar dispositivos UniFi por MAC na controladora UniFi via API.
 
+Contato para serviços, ideias ...
+https://www.linkedin.com/in/renan-pablo-9756293a/
+
 ## 💻 Funcionalidades
 - Login na controladora UniFi
 - Busca dispositivos por MAC em todos os sites configurados
